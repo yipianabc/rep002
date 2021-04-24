@@ -1,0 +1,5 @@
+com\cloud\entity\Student.class
+com\cloud\feign\impl\FeignError.class
+com\cloud\controller\FeignHandler.class
+com\cloud\FeignApplication.class
+com\cloud\feign\FeignProviderClient.class
